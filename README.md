@@ -38,13 +38,20 @@ Columns that are deemed unnecessary for analysis are deleted from the dataset us
 # Functions Used
 
     Alter Table: Used to modify the structure of the database table.
+    
     Update Table: Employed to update existing data based on specific conditions or transformations.
+    
     Self Join: Used to compare rows within the same table for duplicate removal.
+    
     Substring: Extracts a substring from a specified position in a string.
+    
     ParseName: Extracts the specified part of a delimited string.
+    
     CASE Statement: Implements conditional logic to modify or create columns based on specified criteria.
+    
     CTE (Common Table Expression): Utilized for creating temporary result sets to simplify complex queries.
     Delete: Removes rows from a table based on specified conditions.
+    
     Drop Column: Eliminates specified columns from the table structure.
 
 # Conclusion
