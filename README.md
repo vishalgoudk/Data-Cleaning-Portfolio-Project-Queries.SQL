@@ -4,12 +4,12 @@
 
 This data cleaning project focuses on preparing Nashville housing data for analysis using SQL Server. The dataset, sourced from an Excel file, contains information about properties in Nashville. The data cleaning process is carried out using SQL queries, utilizing various functions and operations to standardize, enhance, and streamline the dataset.
 
-# Tools Used
+## Tools Used
 
     SQL Server: Primary database management system for data cleaning.
     Excel File: Source of the raw Nashville housing data.
 
-# Data Cleaning Steps
+## Data Cleaning Steps
 
 1. Importing Data
 
@@ -35,7 +35,7 @@ Duplicates in the dataset are identified and removed using the DELETE statement 
 
 Columns that are deemed unnecessary for analysis are deleted from the dataset using the DROP COLUMN statement.
 
-# Functions Used
+## Functions Used
 
     Alter Table: Used to modify the structure of the database table.
     Update Table: Employed to update existing data based on specific conditions or transformations.
@@ -47,6 +47,6 @@ Columns that are deemed unnecessary for analysis are deleted from the dataset us
     Delete: Removes rows from a table based on specified conditions.
     Drop Column: Eliminates specified columns from the table structure.
 
-# Conclusion
+## Conclusion
 
 The Nashville housing data cleaning project ensures that the dataset is standardized, enriched, and organized for further analysis. By employing SQL queries and various functions, the data is transformed into a more structured and insightful format, eliminating inconsistencies and redundancies. The cleaned dataset is now ready for exploratory data analysis, reporting, and other analytical tasks.
